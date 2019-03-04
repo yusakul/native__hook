@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">nativehook</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="bind">绑定</string>
+    <string name="unbind">解绑</string>
+</resources>
